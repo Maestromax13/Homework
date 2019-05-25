@@ -93,7 +93,7 @@
 // console.log(student.getFullName());
 // console.log(student.getCourse());
 
-/*
+//  task 6
   class Ingredient {
     constructor(id, category, name, price, kkal) {
       this.id = id; // Идентификатор
@@ -266,4 +266,4 @@
   console.log(burger);
 
 
-*/
+

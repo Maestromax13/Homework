@@ -63,13 +63,3 @@
 // playGame();
 // }
 
-const myArray = [1, 2, 3];
-const yourArray = [11, 22, 33];
-for (let i = 0; i < myArray.length; i++) {
-  for (let j = 0; j < yourArray.length; j++) {
-    if (myArray.indexOf(i) % 2 === 1) {
-     myArray.push(yourArray[j]);
-    }
-  }
-};
-console.log(myArray);
